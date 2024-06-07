@@ -1,4 +1,4 @@
-# Minesweeper on Circuitverse
+# Minesweeper on CircuitVerse
 This was an emulation of the popular game 'Minesweeper' which was made on CircuitVerse. It consists of adders, subtractors, randomisers, and many other circuit components that I had learnt.
 
 ## How To Run
